@@ -40,10 +40,13 @@ I am currently working as Associate Manager, platform engineering at RedHat. Pre
 
 ### Summary
 
-<p align="left">
-<a href="http://www.github.com/sabbir-47"><img src="https://github-readme-stats.vercel.app/api?username=sabbir-47&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=000000&icon_color=000000&bg_color=ffffff&hide_border=true&show_icons=true" alt="sabbir-47's GitHub stats" /></a>
-<a href="http://www.github.com/sabbir-47"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sabbir-47&stroke=000000&background=ffffff&ring=ef4444&fire=ef4444&currStreakNum=000000&currStreakLabel=ef4444&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
-</p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sabbir-47&theme=shadow_green&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=sabbir-47&theme=vue&card_width=450" />
+</a>
 
-![](https://github-contributor-stats.vercel.app/api?username=sabbir-47&limit=5&theme=discord&combine_all_yearly_contributions=true)
+
+![](https://github-contributor-stats.vercel.app/api?username=sabbir-47&limit=5&theme=default&combine_all_yearly_contributions=true)
 
