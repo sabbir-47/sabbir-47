@@ -24,7 +24,7 @@ I am currently working as Associate Manager, platform engineering at RedHat. Pre
 * 🔭 I’m currently working on Far edge Openshift deployment and configuration on bare metals, low level frequency tuning etc.
 * ✉️  You can contact me at [sabbir.hasan.47@gmail.com](mailto:sabbir.hasan.47@gmail.com) <a href="https://www.linkedin.com/in/sabbirhasanrochi/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>
 * 🌱 I’m currently interested and learning about Kubernetes Security
-* Some of the publications from my PhD can be found at [Google Scholar!](https://scholar.google.com/citations?user=67RLNwUAAAAJ&hl=en)
+* 👯 Some of the publications from my PhD can be found at [Google Scholar!](https://scholar.google.com/citations?user=67RLNwUAAAAJ&hl=en)
 * ⚡  I play guitar and listen music in my free time.
 * ⚡  I do not enjoy playing video games or watching Star Wars!
 
