@@ -18,12 +18,22 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ====================================================================================================================================
 
 ## 💫 About Me:
+<p>
+  <a href="https://www.linkedin.com/in/sabbirhasanrochi/" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+  </a> &nbsp; 
+  <a href="https://github.com/sabbir-47" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
+  </a>
+  <a href="mailto:sabbir.hasan.47@gmail.com"> 
+    <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white">
+  </a>
+</p>
 I am currently working as Associate Manager, platform engineering at RedHat. Previously i worked a Principal Software Engineer contributing to Telco Edge Openshift deployment, configuration and low level platform tuning. In my previous life, I did a PhD in Computer Science focusing on how to smartly manage Renewable Energy in Cloud Infrastructure and applications.
 
 * 🌍  I'm based in Grenoble, France
 * 🔭 I’m currently working on Far edge Openshift deployment and configuration on bare metals, low level frequency tuning etc.
-* ✉️  You can contact me at [sabbir.hasan.47@gmail.com](mailto:sabbir.hasan.47@gmail.com) <a href="https://www.linkedin.com/in/sabbirhasanrochi/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>
-* 🌱 I’m currently interested and learning about Kubernetes Security
+* ✉️  You can contact me at [sabbir.hasan.47@gmail.com](mailto:sabbir.hasan.47@gmail.com)
 * 👯 Some of the publications from my PhD can be found at [Google Scholar!](https://scholar.google.com/citations?user=67RLNwUAAAAJ&hl=en)
 * ⚡  I play guitar and listen music in my free time.
 * ⚡  I do not enjoy playing video games or watching Star Wars!
