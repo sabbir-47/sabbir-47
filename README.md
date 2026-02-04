@@ -17,18 +17,8 @@ Here are some ideas to get you started:
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I am Sabbir Hasan
 ====================================================================================================================================
 
-## 💫 About Me:
-<p>
-  <a href="https://www.linkedin.com/in/sabbirhasanrochi/" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
-  </a> &nbsp; 
-  <a href="https://github.com/sabbir-47" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
-  </a>
-  <a href="mailto:sabbir.hasan.47@gmail.com"> 
-    <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white">
-  </a>
-</p>
+## About Me:
+
 I am currently working as Associate Manager, platform engineering at RedHat. Previously i worked a Principal Software Engineer contributing to Telco Edge Openshift deployment, configuration and low level platform tuning. In my previous life, I did a PhD in Computer Science focusing on how to smartly manage Renewable Energy in Cloud Infrastructure and applications.
 
 * 🌍  I'm based in Grenoble, France
