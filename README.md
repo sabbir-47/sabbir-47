@@ -19,7 +19,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ## About Me:
 
-I am currently working as Associate Manager, platform engineering at RedHat. Previously i worked a Principal Software Engineer contributing to Telco Edge Openshift deployment, configuration and low level platform tuning. In my previous life, I did a PhD in Computer Science focusing on how to smartly manage Renewable Energy in Cloud Infrastructure and applications.
+I am currently working as Software Engineering Manager at RedHat. Previously i worked a Principal Software Engineer contributing to Telco Edge Openshift deployment, configuration and low level platform tuning. In my previous life, I did a PhD in Computer Science focusing on how to smartly manage Renewable Energy in Cloud Infrastructure and applications.
 
 * 🌍  I'm based in Nantes, France
 * 🔭 I’m currently working on Far edge Openshift deployment and configuration on bare metals, low level frequency tuning etc.
